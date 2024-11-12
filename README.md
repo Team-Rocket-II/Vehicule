@@ -23,4 +23,6 @@ Voici quelques informations :
       pilotes, d'interfaces, de processus et de services ;
     • Opérer à l’aide de machines à états pour gérer son fonctionnement.
 
+
+pin fonctionnel sur le esp32 pour GPIO 14 - 32 & 15 - 33 & 27 - 12 & 21 - 17
     
